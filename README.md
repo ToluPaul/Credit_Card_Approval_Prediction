@@ -13,3 +13,5 @@ This repository contains a jupyter notebook that uses python code to analyze the
 Logistic Regression was the best to make prediction for continious data and with the metrics used to grade its performance it did perform excellently well
 
 Data Leakage was avoided by presenting the needed features that were needed for predictions.
+
+The target variables were indeed of good use in scoring the performance of the model after the model used the test data set to make predictions.
