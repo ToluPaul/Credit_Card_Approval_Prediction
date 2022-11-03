@@ -6,4 +6,6 @@ Money may not always be at our disposal but it is often needed. Knowing who it i
 Going through all the data to find that out could be tiring and maybe misleading but why stress when it can be automated and we can be assisted by machine learning models
 With the proper machine learning algorithm we decipher which customer or person who needs a loan would get approved
 
-It is one thing to need a loan
+It is one thing to need a loan and it is another thing to get an approval.
+
+This repository contains a jupyter notebook that uses python code to analyze the data and make predictions
